@@ -1,4 +1,4 @@
-### Table
+### Table {#section-id}
 | Header 1    | Header 2    | Header 3    |
 | ----------- | ----------- | ----------- |
 | Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
@@ -69,3 +69,9 @@ int main() {
 
 ### Underlined Text
 <ins>This text is underlined!</ins>
+
+### Keyboard Shortcut 
+<kbd>Ctrl</kbd> + <kbd>C</kbd>
+
+### Anchor Links
+[Go to Section](#section-id)
