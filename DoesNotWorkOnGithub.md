@@ -4,6 +4,13 @@
 ### Video Embeds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qU_cSvA-Scs?si=Hz2epRdH0ycvzA-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Audio Embed
+<audio controls>
+  <source src="audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ### Math and LaTeX
 Inline math: \( e = mc^2 \)
 
