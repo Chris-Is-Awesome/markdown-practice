@@ -1,4 +1,4 @@
-### Table {#section-id}
+### Table
 | Header 1    | Header 2    | Header 3    |
 | ----------- | ----------- | ----------- |
 | Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
@@ -74,4 +74,4 @@ int main() {
 <kbd>Ctrl</kbd> + <kbd>C</kbd>
 
 ### Anchor Links
-[Go to Section](#section-id)
+[Go to Section](#Table)
