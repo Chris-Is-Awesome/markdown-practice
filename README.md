@@ -6,7 +6,7 @@ This is my Markdown playground for testing more advanced Markdown features and s
 <details id="setitems">
 <summary><b>setitems</b></summary>
 
-<div style="border: 1px solid #000; padding: 10px; margin: 10px 0;">
+<div style="border: 1px solid #FFF; padding: 10px; margin: 10px 0;">
 
 **Alias(es):**
 - `giveitems`
