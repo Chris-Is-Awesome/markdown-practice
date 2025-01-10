@@ -14,6 +14,9 @@ This is <mark>highlighted</mark> text
 - [x] b
 
 subscript<sub>with HTML tag</sub>
+
 superscript<sup>with HTML tag</sup>
+
 subscript~with tilde~
+
 superscript^with carrot^
