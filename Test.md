@@ -20,3 +20,16 @@ superscript<sup>with HTML tag</sup>
 subscript~with tilde~
 
 superscript^with carrot^
+
+<table>
+	<thead>
+		<tr>
+			<th>test</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>works?</td>
+		</tr>
+	</tbody>
+</table>
